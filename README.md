@@ -1,4 +1,4 @@
-# papa-cristhian
+# Repositorio-Cris 
 Primer repositorio github 
 
 ## descripción 
